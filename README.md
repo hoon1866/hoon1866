@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+헤더 : https://github.com/kyechan99/capsule-render#egg
+언어 통꼐: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![hoon1866's github stats](https://github-readme-stats.vercel.app/api?username=hoon1866&show_icons=true&theme=dark)
 
-![hoon1866's github stats](github-readme-stats.vercel.app/api/top-langs/?username={hoon1866}&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
