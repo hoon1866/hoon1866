@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hoon1866/hoon1866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 헤더 : https://github.com/kyechan99/capsule-render#egg
-언어 통꼐: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+언어 통계: https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![hoon1866's github stats](https://github-readme-stats.vercel.app/api?username=hoon1866&show_icons=true&theme=dark)
